@@ -63,4 +63,7 @@
 
   section li{
     margin: .5rem;
+    padding: 1rem;
+    color: darkred;
+    font-size: x-large;
   }
